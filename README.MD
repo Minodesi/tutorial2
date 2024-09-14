@@ -1,2 +1,2 @@
-## Massey University 159251 Course
-#### Tutorial 2 files - working with Maven
+## 23010560
+#### https://github.com/Minodesi/tutorial2
